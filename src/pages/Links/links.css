@@ -24,6 +24,13 @@
   margin-top: 10px;
 }
 
+.links__item .item__empty-text {
+  width: 100%;
+  text-align: center;
+  margin-top: 28px;
+  color: #fff;
+}
+
 .links__item:last-child {
   margin-bottom: 18px;
 }

@@ -14,7 +14,7 @@ Nesse projeto foi construído um encurtador de links, onde você insere um link 
 
 ## 🖥 Preview
 <p>
-    <img src="https://ibb.co/2PDJH5j">
+    <img src="https://i.ibb.co/y5w27V8/sujeito.png">
 </p>
 
 ## 👨‍🏫 Como Utilizar?

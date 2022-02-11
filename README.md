@@ -2,6 +2,8 @@
 
 Nesse projeto foi construído um encurtador de links, onde você insere um link completo e através de uma API de terceiros (bit.ly) é retornado uma versão reduzida/encurtada do mesmo e armazenando na aplicação dentro da seção “Meus Links”.
 
+Live Demo: https://sujeito-link-beta.vercel.app/
+
 ## 🚀 Tecnologias e libs Utilizadas
 <ul>
   <li>ReactJS</li>
